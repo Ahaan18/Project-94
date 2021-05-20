@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to left, green, yellow, red, orange, blue);
+    text-align: center;
+}
+#logout{
+  margin-left: 75%;  
+}
